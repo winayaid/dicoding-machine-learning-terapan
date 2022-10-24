@@ -9,7 +9,7 @@ berfungsi seperti mata uang standar yang memungkinkan penggunanya untuk melakuka
 pembayaran secara virtual atas transaksi bisnis yang terjadi tanpa biaya jasa namun tetap
 memiliki otoritas kepercayaan yang terpusat. *Dogecoin* adalah salah satu jenisnya. Karakteristik unik *Dogecoin* adalah fluktuasi harga harian dan selalu berubah setiap hari. 
 
-Referensi dari domain proyek pada laporan ini dapat dilihat dari tautan berikut :
+Referensi dari domain proyek pada laporan ini dapat dilihat pada tautan berikut :
 [Risiko dan Tingkat Keuntungan Investasi Cryptocurrency](https://www.researchgate.net/profile/Nurul-Huda-32/publication/349116193_Risiko_dan_Tingkat_Keuntungan_Investasi_Cryptocurrency/links/60214094a6fdcc37a8110680/Risiko-dan-Tingkat-Keuntungan-Investasi-Cryptocurrency.pdf)
 
 ## Business Understanding
