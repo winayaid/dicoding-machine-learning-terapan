@@ -21,3 +21,7 @@ Bagaimana memprediksi harga *Dogecoin* dimasa yang akan datang?
 ### Goals
 
 Menentukan model machine learning yang paling sesuai yang dapat digunakan dengan baik untuk memprediksi harga *Dogecoin* dimasa mendatang
+
+## Data Understanding
+
+Dataset yang digunakan pada pada proyek ini merupakan dataset riwayat harga mata uang dogecoin yang diperoleh dari salah situs penyedia data yaitu kaggle:[Cryptocurrency Historical Prices.](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv)
