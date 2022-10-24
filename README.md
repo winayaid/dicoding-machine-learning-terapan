@@ -25,3 +25,23 @@ Menentukan model machine learning yang paling sesuai yang dapat digunakan dengan
 ## Data Understanding
 
 Dataset yang digunakan pada pada proyek ini merupakan dataset riwayat harga mata uang dogecoin yang diperoleh dari salah situs penyedia data yaitu kaggle: [Cryptocurrency Historical Prices.](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv)
+
+Informasi dari dara sebagai berikut:
+- Format dataset yaitu CSV (Comma-Seperated Values).
+- Jumlah kolom pada data yaitu 10, antara lain: SNo, Name, Symbol, Date, High, Low, Open, Close, Volume, Marketcap.
+- Jumlah sample yang terdapat didalam dataset 2760. 
+- Terdapat 6 kolom data yang memiliki tipe data Float yaitu (High, Low, Open, Close, Volume, Marketcap).
+- Terdapat 1 kolom data yang memiliki tipe data Integer yaitu (SNo)
+- Terdapat 2 kolom data yang memiliki tipe data Object atau String yaitu (Name, Symbol)
+- Tidak terdapat missing value pada dataset
+
+## Variabel-variabel pada Cryptocurrency Historical Prices dataset adalah sebagai berikut:
+- Name: Nama mata uang kripto
+- Symbol: Simbol mata uang kripto
+- Date: Tanggal pencatatan data
+- High : Harga tertinggi pada hari tertentu
+- Low : Harga terendah pada hari tertentu
+- Open : Harga pembukaan pada hari tertentu
+- Close : Harga penutupan pada hari tertentu
+- Volume : Volume transaksi pada hari tertentu
+- Mastercap : Kapitalisasi pasar dalam USD
