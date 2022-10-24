@@ -20,4 +20,4 @@ Bagaimana memprediksi harga *Dogecoin* dimasa yang akan datang?
 
 ### Goals
 
-Menentukan model machine learning yang paling sesuai yang dapat digunakan dengan baik untuk memprediksi harga *Dogecoin dimasa mendatang
+Menentukan model machine learning yang paling sesuai yang dapat digunakan dengan baik untuk memprediksi harga *Dogecoin* dimasa mendatang
