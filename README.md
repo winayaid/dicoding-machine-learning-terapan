@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning - Winaya Zarkasih
 
-## Domainn Proyek
+## Domain Proyek
 *Cryptocurrency* telah menjadi fenomena global saat ini. Berdasarkan hasil Survei GlobalWebIndex
 menyebutkan bahwa ada sekitar 10% pengguna internet di Indonesia telah memiliki mata uang digital.
 Persentase tersebut membuat Indonesia menempati peringkat 5 pengguna cryptocurrency terbanyak di
