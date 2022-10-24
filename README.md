@@ -1,4 +1,4 @@
-# dicoding-machine-learning-terapan
+# Laporan Proyek Machine Learning - Winaya Zarkasih
 
 ## Domainn Proyek
 *Cryptocurrency* telah menjadi fenomena global saat ini. Berdasarkan hasil Survei GlobalWebIndex
