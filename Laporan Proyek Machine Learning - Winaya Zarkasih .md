@@ -107,4 +107,4 @@ Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest dan K-Nea
 
 <img width="847" alt="Predictive Analysis" src="https://user-images.githubusercontent.com/60729013/197784816-d039f08c-c7a0-4955-834c-ca6d24dd7d6d.png">
 
-Dari dua model yang telah digunakan dapat kita lihat bahwa prediksi mendekati nilai yang sebenarnya dan model random forest yang paling mendekati nilai sebenarnya.
+Dari kedua model yang telah digunakan untuk pelatihan dapat kita lihat bahwa prediksi mendekati nilai yang sebenarnya, maka dari itu kita bisa menggunakan model KNN maupun Random Forest untuk memprediksi harga Dogecoin.
