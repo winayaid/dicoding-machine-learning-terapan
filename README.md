@@ -84,3 +84,8 @@ Random Forest adalah Algoritma Pembelajaran Mesin Supervised yang digunakan seca
 
 - n_estimator: jumlah trees (pohon) di forest. Di sini kita set n_estimator=6.
 - max_depth: kedalaman atau panjang pohon. Ia merupakan ukuran seberapa banyak pohon dapat membelah (splitting) untuk membagi setiap node ke dalam jumlah pengamatan yang diinginkan. Di sini kita set max_depth=16.
+
+# Evaluation
+
+Metrik evaluasi yang digunakan yaitu mean squared error (MSE) yang mana metrik ini merupakan ukuran seberapa dekat garis pas dengan titik data. Untuk setiap titik data, model mengambil jarak secara vertikal dari titik ke nilai y yang sesuai pada kecocokan kurva (kesalahan), dan kuadratkan nilainya.
+
