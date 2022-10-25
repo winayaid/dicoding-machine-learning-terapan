@@ -60,11 +60,11 @@ Berdasarkan visualisasi diatas beberapa data numeric memiliki data outlier. Disi
 
 Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga Dogecoin sebanding dengan penurunan jumlah sampel.
 
-![Multi Variate Analysis](https://user-images.githubusercontent.com/60729013/197671118-47178c86-0269-4f4e-97a7-9371816c5ff7.png)
+![Multivariate Analysis](https://user-images.githubusercontent.com/60729013/197780719-28374cb5-401b-44cf-9205-0266dffc2987.png)
 
 Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Open, dan Marketcap termasuk korelasi yang tinggi. Sedangkan fitur Volume korelasi nya cukup lemah, sebaran datanya tidak membentuk pola.
 
-![Heatmap](https://user-images.githubusercontent.com/60729013/197671485-0ef38f77-e359-4f63-9a35-6f20d3025e86.png)
+![Heatmap](https://user-images.githubusercontent.com/60729013/197781028-1dad99a9-f36f-4845-8c2a-f6bbe1a07009.png)
 
 Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.6 atau mendekati 1.
 
@@ -101,10 +101,10 @@ Y^i = nilai yang diprediksi
 
 Visualisasi metrik MSE
 
-![Visualization Metric MSE](https://user-images.githubusercontent.com/60729013/197674612-cd4e2083-dc01-4772-9016-641c99c6ffd2.png)
+![Evaluasi MSE](https://user-images.githubusercontent.com/60729013/197781072-af4a42d5-41c6-445a-81a9-e1f585e7a314.png)
 
 Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest dan K-Nearest Neighbours memiliki MSE yang sama
 
-![Visualization Model Prediction](https://user-images.githubusercontent.com/60729013/197675249-96228282-904c-4bae-bb81-059b1896126a.png)
+![Predictive with data tes](https://user-images.githubusercontent.com/60729013/197781103-f6cd9408-88e2-4764-9782-a58a47c75f97.png)
 
 Dari dua model yang telah digunakan dapat kita lihat bahwa prediksi mendekati nilai yang sebenarnya dan model random forest yang paling mendekati nilai sebenarnya.
