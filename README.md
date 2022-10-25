@@ -55,3 +55,7 @@ Teknik data preparation yang dilakukan sebagai berikut:
 ![Visualisasi Outlier](https://user-images.githubusercontent.com/60729013/197669355-c0c8ca9c-7a5a-4679-96a2-dccb7789edf8.png)
 
 Berdasarkan visualisasi diatas beberapa data numeric memiliki data outlier. Disini saya menggunakan teknik IQR Method yaitu dengan menghapus data yang berada diluar interquartile range. Interquartile merupakan range diantara kuartil pertama(25%) dan kuartil ketiga(75%).
+
+![Unvariate Analysis](https://user-images.githubusercontent.com/60729013/197670526-c163a31c-e90e-4c69-9bf8-f7be5dfacb2e.png)
+
+Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga Dogecoin sebanding dengan penurunan jumlah sampel
