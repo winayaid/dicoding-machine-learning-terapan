@@ -52,7 +52,7 @@ Teknik data preparation yang dilakukan sebagai berikut:
 
 - Menangani Outlier
 
-![Visualisasi Outlier](https://user-images.githubusercontent.com/60729013/197669355-c0c8ca9c-7a5a-4679-96a2-dccb7789edf8.png)
+![boxplot dogecoin](https://user-images.githubusercontent.com/60729013/197778769-b5932a48-9c39-4230-82d6-bd90dfab3ca0.png)
 
 Berdasarkan visualisasi diatas beberapa data numeric memiliki data outlier. Disini saya menggunakan teknik IQR Method yaitu dengan menghapus data yang berada diluar interquartile range. Interquartile merupakan range diantara kuartil pertama(25%) dan kuartil ketiga(75%).
 
