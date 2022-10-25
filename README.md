@@ -52,23 +52,23 @@ Teknik data preparation yang dilakukan sebagai berikut:
 
 - Menangani Outlier
 
-![boxplot dogecoin](https://user-images.githubusercontent.com/60729013/197778769-b5932a48-9c39-4230-82d6-bd90dfab3ca0.png)
+<img width="882" alt="Boxplot Visualization" src="https://user-images.githubusercontent.com/60729013/197784707-0bd30a85-ff27-4970-bf0d-667870068e6b.png">
 
-Berdasarkan visualisasi diatas beberapa data numeric memiliki data outlier. Disini saya menggunakan teknik IQR Method yaitu dengan menghapus data yang berada diluar interquartile range. Interquartile merupakan range diantara kuartil pertama(25%) dan kuartil ketiga(75%).
+Berdasarkan visualisasi diatas beberapa data numerik memiliki data outlier. Disini saya menggunakan teknik IQR method yaitu dengan menghapus data yang berada diluar interquartile range. Interquartile merupakan range diantara kuartil pertama(25%) dan kuartil ketiga(75%).
 
-![Unvariate Analysis](https://user-images.githubusercontent.com/60729013/197780320-f8831d7d-6d3f-4fb3-ada1-7451b93c3f4d.png)
+<img width="876" alt="Unvariate Analysis" src="https://user-images.githubusercontent.com/60729013/197784829-5d487af2-3235-421f-a606-423a8ea3e299.png">
 
 Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga Dogecoin sebanding dengan penurunan jumlah sampel.
 
-![Multivariate Analysis](https://user-images.githubusercontent.com/60729013/197780719-28374cb5-401b-44cf-9205-0266dffc2987.png)
+<img width="612" alt="Multivariate Analysis" src="https://user-images.githubusercontent.com/60729013/197784772-76268b6d-3946-4303-bc45-2d3d947d6c57.png">
 
 Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Open, dan Marketcap termasuk korelasi yang tinggi. Sedangkan fitur Volume korelasi nya cukup lemah, sebaran datanya tidak membentuk pola.
 
-![Heatmap](https://user-images.githubusercontent.com/60729013/197781028-1dad99a9-f36f-4845-8c2a-f6bbe1a07009.png)
+<img width="501" alt="Heatmap" src="https://user-images.githubusercontent.com/60729013/197784744-833b2d0e-50ca-49fb-8ae4-556abb604c29.png">
 
-Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.6 atau mendekati 1.
+Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.77 atau mendekati 1, kecuali fitur volume yang hanya memiliki korelasi lebih dari 0.5 sampai 0.6 terhadap fitur lain.
 
-- Melakukan pembagian dataset Rasio perbandingan dataset pada proyek ini yaitu dengan membaginya menjadi 80% data training dan 20% data testing.
+- Melakukan pembagian dataset rasio perbandingan dataset pada proyek ini yaitu dengan membaginya menjadi 80% data training dan 20% data testing.
 
 - Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
 
@@ -101,10 +101,10 @@ Y^i = nilai yang diprediksi
 
 Visualisasi metrik MSE
 
-![Evaluasi MSE](https://user-images.githubusercontent.com/60729013/197781072-af4a42d5-41c6-445a-81a9-e1f585e7a314.png)
+<img width="440" alt="MSE Evaluation" src="https://user-images.githubusercontent.com/60729013/197784763-d3d2a3b6-afee-4cd0-85e5-aeddfdb29822.png">
 
 Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest dan K-Nearest Neighbours memiliki MSE yang sama
 
-![Predictive with data tes](https://user-images.githubusercontent.com/60729013/197781103-f6cd9408-88e2-4764-9782-a58a47c75f97.png)
+<img width="847" alt="Predictive Analysis" src="https://user-images.githubusercontent.com/60729013/197784816-d039f08c-c7a0-4955-834c-ca6d24dd7d6d.png">
 
 Dari dua model yang telah digunakan dapat kita lihat bahwa prediksi mendekati nilai yang sebenarnya dan model random forest yang paling mendekati nilai sebenarnya.
