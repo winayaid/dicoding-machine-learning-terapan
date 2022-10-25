@@ -71,3 +71,16 @@ Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memili
 - Melakukan pembagian dataset Rasio perbandingan dataset pada proyek ini yaitu dengan membaginya menjadi 80% data training dan 20% data testing.
 
 - Normalisasi data Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
+
+## Modeling
+
+### K-Nearest Neighbours
+
+K-nearest neighbor (kNN) adalah algoritma pembelajaran mesin supervised yang dapat digunakan untuk menyelesaikan tugas klasifikasi dan regresi. Parameter yang digunakan pada model ini hanya akan menggunakan 1 parameter yaitu n_neighbours. Jumlah neighbours yang di gunakan yaitu sejumlah 5 neighbours. Kemudian, untuk menentukan titik mana dalam data yang paling mirip dengan input baru, KNN menggunakan perhitungan ukuran jarak. Metrik ukuran jarak yang digunakan secara default pada library sklearn adalah Minkowski distance.
+
+### Random Forest
+
+Random Forest adalah Algoritma Pembelajaran Mesin Supervised yang digunakan secara luas dalam masalah Klasifikasi dan Regresi. Itu membangun pohon keputusan pada sampel yang berbeda dan mengambil suara mayoritas mereka untuk klasifikasi dan rata-rata dalam kasus regresi. Parameter yang digunakan diantaranya:
+
+- n_estimator: jumlah trees (pohon) di forest. Di sini kita set n_estimator=6.
+- max_depth: kedalaman atau panjang pohon. Ia merupakan ukuran seberapa banyak pohon dapat membelah (splitting) untuk membagi setiap node ke dalam jumlah pengamatan yang diinginkan. Di sini kita set max_depth=16.
