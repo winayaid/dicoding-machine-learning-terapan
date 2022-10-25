@@ -105,4 +105,6 @@ Visualisasi metrik MSE
 
 Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest dan K-Nearest Neighbours memiliki MSE yang sama
 
+![Visualization Model Prediction](https://user-images.githubusercontent.com/60729013/197675249-96228282-904c-4bae-bb81-059b1896126a.png)
 
+Dari dua model yang telah digunakan dapat kita lihat bahwa prediksi mendekati nilai yang sebenarnya dan model random forest yang paling mendekati nilai sebenarnya.
