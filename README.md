@@ -103,3 +103,6 @@ Visualisasi metrik MSE
 
 ![Visualization Metric MSE](https://user-images.githubusercontent.com/60729013/197674612-cd4e2083-dc01-4772-9016-641c99c6ffd2.png)
 
+Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest dan K-Nearest Neighbours memiliki MSE yang sama
+
+
