@@ -67,3 +67,5 @@ Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Op
 ![Heatmap](https://user-images.githubusercontent.com/60729013/197671485-0ef38f77-e359-4f63-9a35-6f20d3025e86.png)
 
 Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.6 atau mendekati 1.
+
+- Normalisasi data Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
