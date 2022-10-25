@@ -45,3 +45,10 @@ Informasi dari dara sebagai berikut:
 - Close : Harga penutupan pada hari tertentu
 - Volume : Volume transaksi pada hari tertentu
 - Mastercap : Kapitalisasi pasar dalam USD
+
+## Data Preparation
+
+Teknik data preparation yang dilakukan sebagai berikut:
+
+- Menangani Outlier
+
