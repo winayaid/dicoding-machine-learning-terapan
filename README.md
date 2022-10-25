@@ -52,3 +52,4 @@ Teknik data preparation yang dilakukan sebagai berikut:
 
 - Menangani Outlier
 
+![Visualisasi Outlier](https://user-images.githubusercontent.com/60729013/197669355-c0c8ca9c-7a5a-4679-96a2-dccb7789edf8.png)
