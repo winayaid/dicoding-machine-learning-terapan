@@ -7,7 +7,7 @@ Persentase tersebut membuat Indonesia menempati peringkat 5 pengguna cryptocurre
 dunia. Menurut (Syamsiah, 2017) cryptocurrency adalah system mata uang virtual yang
 berfungsi seperti mata uang standar yang memungkinkan penggunanya untuk melakukan
 pembayaran secara virtual atas transaksi bisnis yang terjadi tanpa biaya jasa namun tetap
-memiliki otoritas kepercayaan yang terpusat. *Dogecoin* adalah salah satu jenisnya. Oleh karena itu disini saya membuat proyek machine learning yang dapat memprediksi harga *Dogecoin* dimasa yang akan datang, sehingga dapat meminimalisir kerugian dalam membeli koin tersebut. 
+memiliki otoritas kepercayaan yang terpusat. *Dogecoin* adalah salah satu jenisnya. Harga *Dogecoin* berubah setiap harinya sebelum membelinya kita perlu memprediksi kemungkinan harganya agar tidak rugi. Oleh karena itu disini saya membuat proyek machine learning yang dapat memprediksi harga *Dogecoin* dimasa yang akan datang, sehingga dapat meminimalisir kerugian dalam membeli koin tersebut. 
 
 Referensi dari domain proyek pada laporan ini dapat dilihat pada tautan berikut :
 [Risiko dan Tingkat Keuntungan Investasi Cryptocurrency](https://www.researchgate.net/profile/Nurul-Huda-32/publication/349116193_Risiko_dan_Tingkat_Keuntungan_Investasi_Cryptocurrency/links/60214094a6fdcc37a8110680/Risiko-dan-Tingkat-Keuntungan-Investasi-Cryptocurrency.pdf)
