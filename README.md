@@ -16,7 +16,7 @@ Referensi dari domain proyek pada laporan ini dapat dilihat pada tautan berikut 
 
 ### Problem Statements
 
-Bagaimana memprediksi harga *Dogecoin* dimasa yang akan datang?
+Bagaimana memprediksi harga *Dogecoin* dimasa yang akan datang dengan pendekatan machine learning?
 
 ### Goals
 
