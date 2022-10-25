@@ -64,3 +64,6 @@ Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dap
 
 Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Open, dan Marketcap termasuk korelasi yang tinggi. Sedangkan fitur Volume korelasi nya cukup lemah, sebaran datanya tidak membentuk pola.
 
+![Heatmap](https://user-images.githubusercontent.com/60729013/197671485-0ef38f77-e359-4f63-9a35-6f20d3025e86.png)
+
+Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.8 atau mendekati 1.
