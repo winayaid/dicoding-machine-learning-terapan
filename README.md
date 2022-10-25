@@ -101,5 +101,5 @@ Y^i = nilai yang diprediksi
 
 Visualisasi metrik MSE
 
-
+![Visualization Metric MSE](https://user-images.githubusercontent.com/60729013/197674612-cd4e2083-dc01-4772-9016-641c99c6ffd2.png)
 
