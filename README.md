@@ -90,3 +90,16 @@ Random Forest adalah Algoritma Pembelajaran Mesin Supervised yang digunakan seca
 Metrik evaluasi yang digunakan yaitu mean squared error (MSE) yang mana metrik ini merupakan ukuran seberapa dekat garis pas dengan titik data. Untuk setiap titik data, model mengambil jarak secara vertikal dari titik ke nilai y yang sesuai pada kecocokan kurva (kesalahan), dan kuadratkan nilainya.
 
 <img width="422" alt="Rumus MSE" src="https://user-images.githubusercontent.com/60729013/197673567-a7845a0b-4b6b-4210-a614-ac05d1e2e4da.png">
+
+Keterangan:
+
+n = jumlah titik data
+
+Yi = nilai yang diamati
+
+Y^i = nilai yang diprediksi
+
+Visualisasi metrik MSE
+
+
+
