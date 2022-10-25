@@ -58,4 +58,9 @@ Berdasarkan visualisasi diatas beberapa data numeric memiliki data outlier. Disi
 
 ![Unvariate Analysis](https://user-images.githubusercontent.com/60729013/197670526-c163a31c-e90e-4c69-9bf8-f7be5dfacb2e.png)
 
-Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga Dogecoin sebanding dengan penurunan jumlah sampel
+Fitur Close Price pada harga Dogecoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga Dogecoin sebanding dengan penurunan jumlah sampel.
+
+![Multi Variate Analysis](https://user-images.githubusercontent.com/60729013/197671118-47178c86-0269-4f4e-97a7-9371816c5ff7.png)
+
+Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Open, dan Marketcap termasuk korelasi yang tinggi. Sedangkan fitur Volume korelasi nya cukup lemah, sebaran datanya tidak membentuk pola.
+
