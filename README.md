@@ -70,7 +70,7 @@ Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memili
 
 - Melakukan pembagian dataset Rasio perbandingan dataset pada proyek ini yaitu dengan membaginya menjadi 80% data training dan 20% data testing.
 
-- Normalisasi data Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
+- Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
 
 ## Modeling
 
