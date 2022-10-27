@@ -12,8 +12,6 @@ Berikut data yang disampaikan oleh Kemenparekraf:
 
 Melihat peningkatan jumlah penonton yang hampir pulih seperti sebelum ada pandemi tersebut, diperlukan sistem rekomendasi yang dapat merekomendasikan film sesuai degan preferensi pribadi agar memberikan kepuasan kepada penonton terhadap film yang ditonton.
 
-Referensi dari project overview pada laporan ini dapat dilihat pada tautan berikut: [Kemenparekraf Jumlah Penonton Bioskop Sudah Pulih, Hampir Seperti Sebelum Pandemi Covid-19](https://nasional.kompas.com/read/2022/07/04/14351401/kemenparekraf-jumlah-penonton-bioskop-sudah-pulih-hampir-seperti-sebelum) 
-
 ## Business Understanding
 
 ### Problem Statements
@@ -95,10 +93,15 @@ Berikut 5 rekomendasi film hasil dari sistem yang kita buat untuk judul film "Bo
 
 ## Evaluation
 
-Pada sistem rekomendasi dengan pendekatan Content Based Filtering dibuat, saya menggunakan akurasi sebagai metrik evaluasi. Akurasi pada Content Based Filtering adalah: Jumlah Film yang direkomendasikan sesuai dengan Genre Film / Jumlah Film yang direkomendasikan.
+Pada sistem rekomendasi dengan pendekatan Content Based Filtering dibuat, saya menggunakan akurasi sebagai metrik evaluasi. 
+Rumus yang digunakan untuk mendapatkan akurasi pada Content Based Filtering yaitu: 
+Akurasi = Jumlah Film yang direkomendasikan sesuai dengan Genre Film / Jumlah Film yang direkomendasikan.
 
-Berikut potongan kodenya
-
-Berikut akurasi yang didapatkan oleh sistem rekomendasi yang saya buat
+Berikut akurasi yang didapatkan dari sistem rekomendasi yang dibuat
 
 <img width="413" alt="Screen Shot 2022-10-27 at 16 05 22" src="https://user-images.githubusercontent.com/60729013/198242451-1bc2a4c8-0173-4b53-b6f7-a4cdd52c9da9.png">
+
+
+Daftar Refensi:
+
+- [Kemenparekraf Jumlah Penonton Bioskop Sudah Pulih, Hampir Seperti Sebelum Pandemi Covid-19](https://nasional.kompas.com/read/2022/07/04/14351401/kemenparekraf-jumlah-penonton-bioskop-sudah-pulih-hampir-seperti-sebelum) 
