@@ -29,3 +29,26 @@ Referensi dari project overview pada laporan ini dapat dilihat pada tautan berik
 ## Data Understanding
 
 Dataset yang digunakan pada pada proyek ini merupakan dataset film FilmTV yang diperoleh dari salah situs penyedia data yaitu kaggle: [FilmTV movies dataset](https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset?select=filmtv_movies+-+ENG.csv)
+
+- filmtv_id : Merupakan id dari film
+- title : Merupakan judul dari film
+- year : Merupakan tahun rilis film
+- genre : Merupakan genre film
+- duration : Merupakan durasi film
+- country : Merupakan negara dari film
+- directors : Merupakan direktur dari film
+- actors : Merupakan kumpulan aktor dari film
+- avg_vote : Merupakan rata - rata voting
+- critics_vote : Merupakan voting kritik
+- public_vote : Merupakan voting publik
+- total_votes : Merupakan total voting pada film
+- description : Merupakan deskripsi film
+- notes : Merupakan catatan pada film
+- humor : Merupakan tingkat humor film
+- rhythm : Merupakan tingkat irama film
+- effort : Merupakan tingkat upaya film
+- tension : Merupakan tingkat ketegangan film
+- erotisme : Merupakan tingkat erotisme film
+
+
+
