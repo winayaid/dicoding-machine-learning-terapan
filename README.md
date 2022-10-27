@@ -77,17 +77,21 @@ Berikut adalah hal - hal yang dilakukan pada proses data preparation :
 
 Pada tahapan ini kita akan menggunakan TF-IDF Vectorizer untuk membangun sistem rekomendasi berdasarkan genre film. 
 
-TF-IDF (Term Frequency-Inverse Document Frequency) memiliki fungsi untuk mengukur seberapa pentingnya suatu kata terhadap kata - kata lain dalam dokumen. Kita umumnya menghitung skor untuk setiap kata untuk menandakan pentingnya dalam dokumen. Metode ini sering digunakan dalam Information Retrieval dan Text Mining.
+TF-IDF (Term Frequency-Inverse Document Frequency) memiliki fungsi untuk mengukur seberapa pentingnya suatu kata terhadap kata - kata lain dalam dokumen. Kita umumnya menghitung skor untuk setiap kata untuk menandakan pentingnya dalam dokumen. Metode ini sering digunakan dalam Information Retrieval dan Text Mining. Fungsi pada TF-IDF yang digunakan pada proyek ini menghasilkan kata - kata penting dari kolom genre, setelah itu string yang didapatkan akan dimasukkan ke dalam matriks. Pada proyek ini, saya menggunakan tfidf_matrix sebagai matriks.
+Dalam sistem rekomendasi, kita perlu mencari cara supaya item yang kita rekomendasikan tidak terlalu jauh dari data pusat, oleh karena itu kita butuh derajat kesamaan pada item, dalam proyek ini, mengunakan cosine similarity.
 
-<img width="524" alt="Screen Shot 2022-10-27 at 15 27 00" src="https://user-images.githubusercontent.com/60729013/198232234-ab796de4-cf9c-4aee-971c-4e44f1471c40.png">
-
-Potongan kode diatas adalah implementasi dari TF-IDF untuk mendapatkan kata - kata penting dalam kolom genre. Kemudian string yang didapat akan dimasukkan ke dalam matriks. Pada proyek ini, saya menggunakan tfidf_matrix sebagai matriks.
-Dalam sistem rekomendasi, kita perlu mencari cara supaya item yang kita rekomendasikan tidak terlalu jauh dari data pusat, oleh karena itu kita butuh derajat kesamaan pada item, dalam proyek ini, buku dengan derajat kesamaan antar buku dengan cosine similarity.
 Kemudian saya membuat fungsi author_recommendation untuk mendapatkan 5 rekomendasi dari film yang sebelumnya ditonton.
 
 Berikut 5 rekomendasi film hasil dari sistem yang kita buat untuk judul film "Border Shootout/Law at Randado"
 
-<img width="337" alt="Screen Shot 2022-10-27 at 15 50 25" src="https://user-images.githubusercontent.com/60729013/198238750-1652aa0d-886f-4c20-8a00-8b02049817a1.png">
+|  | title | genre |
+| ----------- | :---------: | ----------: |
+| 0 | Badman's Territory | Western |
+| 1 | The Hunting Party | Western|
+| 2 | The Hunting Party | Drama|
+| 3 | The Good Guys and the Bad Guys | Western |
+| 4 | Tedeum | Western |
+
 
 ## Evaluation
 
