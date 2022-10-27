@@ -1,9 +1,13 @@
-# Laporan Proyek Machine Learning - Nama Anda
+# Laporan Proyek Machine Learning - Winaya Zarkasih
 
 ## Project Overview
 
-Pada bagian ini, Kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
+Berdasarkan informasi yang disampaikan pada Kompas.com, menurut Kemenparefkraf jumlah penonton bioskop mulai pulih usai pandemi COVID-19 berakhir.
+Berikut data yang disampaikan oleh Kemenparekraf:
 
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Jelaskan mengapa proyek ini penting untuk diselesaikan.
-- Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
+-Tahun 2019: 29.646.450 penonton 
+-Tahun 2020: 12.059.127 penonton 
+-Tahun 2021: 4.226.025 penonton 
+-Tahun 2022: 21.212.199 penonton
+
+Melihat peningkatan jumlah penonton yang hampir pulih seperti sebelum ada pandemi tersebut, diperlukan sistem rekomendasi yang dapat merekomendasikan film sesuai degan preferensi pribadi agar memberikan kepuasan kepada penonton terhadap film yang ditonton.
