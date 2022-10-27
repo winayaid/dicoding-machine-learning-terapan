@@ -58,4 +58,11 @@ Informasi dari data sebagai berikut:
 
 Dari visualisasi diatas dapat kita simpulkan bahwa pada dataset ini sebagian besar film memiliki genre Drama dan Comedy. untuk genre lainya tidak terlalu dominan
 
+### Multivariate Analysis
+
+<img width="1061" alt="Screen Shot 2022-10-27 at 14 47 44" src="https://user-images.githubusercontent.com/60729013/198222783-4bc52510-d14e-463d-8e23-4ac8c05dc290.png">
+
+Dari visualisasi diatas dapat kita simpulkan bahwa hanya fitur critic_vote dengan fitur avg_vote yang memiliki pola data.
+
+
 
