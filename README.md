@@ -79,5 +79,12 @@ Pada tahapan ini kita akan menggunakan TF-IDF Vectorizer untuk membangun sistem 
 
 TF-IDF (Term Frequency-Inverse Document Frequency) memiliki fungsi untuk mengukur seberapa pentingnya suatu kata terhadap kata - kata lain dalam dokumen. Kita umumnya menghitung skor untuk setiap kata untuk menandakan pentingnya dalam dokumen. Metode ini sering digunakan dalam Information Retrieval dan Text Mining.
 
+<img width="524" alt="Screen Shot 2022-10-27 at 15 27 00" src="https://user-images.githubusercontent.com/60729013/198232234-ab796de4-cf9c-4aee-971c-4e44f1471c40.png">
+
+Potongan kode diatas adalah implementasi dari TF-IDF untuk mendapatkan kata - kata penting dalam kolom genre. Kemudian string yang didapat akan dimasukkan ke dalam matriks. Pada proyek ini, saya menggunakan tfidf_matrix sebagai matriks.
+Dalam sistem rekomendasi, kita perlu mencari cara supaya item yang kita rekomendasikan tidak terlalu jauh dari data pusat, oleh karena itu kita butuh derajat kesamaan pada item, dalam proyek ini, buku dengan derajat kesamaan antar buku dengan cosine similarity.
+Kemudian saya membuat fungsi author_recommendation untuk mendapatkan 5 rekomendasidari film yang sebelumnya ditonton.
+
+
 
 
