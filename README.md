@@ -85,6 +85,8 @@ Potongan kode diatas adalah implementasi dari TF-IDF untuk mendapatkan kata - ka
 Dalam sistem rekomendasi, kita perlu mencari cara supaya item yang kita rekomendasikan tidak terlalu jauh dari data pusat, oleh karena itu kita butuh derajat kesamaan pada item, dalam proyek ini, buku dengan derajat kesamaan antar buku dengan cosine similarity.
 Kemudian saya membuat fungsi author_recommendation untuk mendapatkan 5 rekomendasidari film yang sebelumnya ditonton.
 
+Berikut 5 rekomendasi hasil dari sistem yang kita buat untuk judul film "Border Shootout/Law at Randado"
 
+<img width="337" alt="Screen Shot 2022-10-27 at 15 50 25" src="https://user-images.githubusercontent.com/60729013/198238750-1652aa0d-886f-4c20-8a00-8b02049817a1.png">
 
 
