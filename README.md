@@ -62,7 +62,7 @@ Dari visualisasi diatas dapat kita simpulkan bahwa pada dataset ini sebagian bes
 
 <img width="823" alt="Screen Shot 2022-10-27 at 14 52 19" src="https://user-images.githubusercontent.com/60729013/198223738-d1f982df-02cb-4261-879b-40be781d0d13.png">
 
-Dari visualisasi diatas dapat kita simpulkan bahwa hanya fitur critic_vote dengan fitur avg_vote yang memiliki pola data.
+Dari visualisasi diatas dapat kita simpulkan bahwa hanya fitur critic_vote dengan fitur avg_vote yang memiliki pola pada data.
 
 ## Data Preparation
 
