@@ -102,6 +102,6 @@ Berikut akurasi yang didapatkan dari sistem rekomendasi yang dibuat
 <img width="413" alt="Screen Shot 2022-10-27 at 16 05 22" src="https://user-images.githubusercontent.com/60729013/198242451-1bc2a4c8-0173-4b53-b6f7-a4cdd52c9da9.png">
 
 
-Daftar Refensi:
+Daftar Referensi:
 
 - [Kemenparekraf Jumlah Penonton Bioskop Sudah Pulih, Hampir Seperti Sebelum Pandemi Covid-19](https://nasional.kompas.com/read/2022/07/04/14351401/kemenparekraf-jumlah-penonton-bioskop-sudah-pulih-hampir-seperti-sebelum) 
