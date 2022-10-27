@@ -99,14 +99,6 @@ Pada sistem rekomendasi dengan pendekatan Content Based Filtering dibuat, saya m
 
 Berikut potongan kodenya
 
-<img width="733" alt="Screen Shot 2022-10-27 at 16 03 42" src="https://user-images.githubusercontent.com/60729013/198241912-d3389a6a-aefb-48cf-9e73-024bc058d124.png">
-
-<img width="442" alt="Screen Shot 2022-10-27 at 16 02 34" src="https://user-images.githubusercontent.com/60729013/198241980-fb667127-f3f9-467b-8ec9-61c1f794bfce.png">
-
-<img width="668" alt="Screen Shot 2022-10-27 at 16 02 42" src="https://user-images.githubusercontent.com/60729013/198242025-46bd262d-a2ee-4fa5-818e-1b9662da68a7.png">
-
-<img width="481" alt="Screen Shot 2022-10-27 at 16 02 52" src="https://user-images.githubusercontent.com/60729013/198242054-dfae229c-6485-4ec0-84fc-fe551e9270a7.png">
-
 Berikut akurasi yang didapatkan oleh sistem rekomendasi yang saya buat
 
 <img width="413" alt="Screen Shot 2022-10-27 at 16 05 22" src="https://user-images.githubusercontent.com/60729013/198242451-1bc2a4c8-0173-4b53-b6f7-a4cdd52c9da9.png">
