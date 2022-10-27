@@ -30,7 +30,7 @@ Referensi dari project overview pada laporan ini dapat dilihat pada tautan berik
 
 Dataset yang digunakan pada pada proyek ini merupakan dataset film FilmTV yang diperoleh dari salah situs penyedia data yaitu kaggle: [FilmTV movies dataset](https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset?select=filmtv_movies+-+ENG.csv)
 
-Informasi dari dara sebagai berikut:
+Informasi dari data sebagai berikut:
 
 - filmtv_id : Merupakan id dari film
 - title : Merupakan judul dari film
