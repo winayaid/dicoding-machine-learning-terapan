@@ -89,4 +89,13 @@ Berikut 5 rekomendasi film hasil dari sistem yang kita buat untuk judul film "Bo
 
 <img width="337" alt="Screen Shot 2022-10-27 at 15 50 25" src="https://user-images.githubusercontent.com/60729013/198238750-1652aa0d-886f-4c20-8a00-8b02049817a1.png">
 
+## Evaluation
+
+Pada sistem rekomendasi dengan pendekatan Content Based Filtering dibuat, saya menggunakan akurasi sebagai metrik evaluasi. Akurasi pada Content Based Filtering adalah: Jumlah Film yang direkomendasikan sesuai dengan Genre Film / Jumlah Film yang direkomendasikan.
+
+Berikut potongan kodenya
+
+
+
+
 
