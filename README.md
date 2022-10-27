@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Berdasarkan informasi yang disampaikan pada Kompas.com, menurut Kemenparefkraf jumlah penonton bioskop mulai pulih usai pandemi COVID-19 berakhir.
+Berdasarkan informasi yang disampaikan pada Kompas.com, menurut Kemenparekraf jumlah penonton bioskop mulai pulih usai pandemi COVID-19 berakhir.
 Berikut data yang disampaikan oleh Kemenparekraf:
 
 * Tahun 2019: 29.646.450 penonton 
