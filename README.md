@@ -77,7 +77,7 @@ Berikut adalah hal - hal yang dilakukan pada proses data preparation :
 
 Pada tahapan ini kita akan menggunakan TF-IDF Vectorizer untuk membangun sistem rekomendasi berdasarkan genre film. 
 
-TF-IDF (Term Frequency-Inverse Document Frequency) memiliki fungsi untuk mengukur seberapa pentingnya suatu kata terhadap kata - kata lain dalam dokumen. Kita umumnya menghitung skor untuk setiap kata untuk menandakan pentingnya dalam dokumen. Metode ini sering digunakan dalam Information Retrieval dan Text Mining. Fungsi pada TF-IDF yang digunakan pada proyek ini menghasilkan kata - kata penting dari kolom genre, setelah itu string yang didapatkan akan dimasukkan ke dalam matriks. Pada proyek ini, saya menggunakan tfidf_matrix sebagai matriks.
+TF-IDF (Term Frequency-Inverse Document Frequency) memiliki fungsi untuk mengukur seberapa pentingnya suatu kata terhadap kata - kata lain dalam dokumen. Kita umumnya menghitung skor untuk setiap kata untuk menandakan pentingnya dalam dokumen. Metode ini sering digunakan dalam Information Retrieval dan Text Mining. Fungsi pada TF-IDF yang digunakan pada proyek ini menghasilkan kata - kata penting dari kolom genre, setelah itu kata yang didapatkan akan dimasukkan ke dalam matriks. Pada proyek ini, saya menggunakan tfidf_matrix sebagai matriks.
 Dalam sistem rekomendasi, kita perlu mencari cara supaya item yang kita rekomendasikan tidak terlalu jauh dari data pusat, oleh karena itu kita butuh derajat kesamaan pada item, dalam proyek ini, mengunakan cosine similarity.
 
 Kemudian saya membuat fungsi author_recommendation untuk mendapatkan 5 rekomendasi dari film yang sebelumnya ditonton.
