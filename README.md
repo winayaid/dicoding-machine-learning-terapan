@@ -103,5 +103,6 @@ Berikut potongan kodenya
 
 <img width="481" alt="Screen Shot 2022-10-27 at 16 02 52" src="https://user-images.githubusercontent.com/60729013/198242054-dfae229c-6485-4ec0-84fc-fe551e9270a7.png">
 
+Berikut akurasi yang didapatkan oleh sistem rekomendasi ini
 
 
