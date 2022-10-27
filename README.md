@@ -12,7 +12,7 @@ Berikut data yang disampaikan oleh Kemenparekraf:
 
 Melihat peningkatan jumlah penonton yang hampir pulih seperti sebelum ada pandemi tersebut, diperlukan sistem rekomendasi yang dapat merekomendasikan film sesuai degan preferensi pribadi agar memberikan kepuasan kepada penonton terhadap film yang ditonton.
 
-Referensi dari project overview pada laporan ini dapat dilihat pada tautan berikut: [Kemenparekraf: Jumlah Penonton Bioskop Sudah Pulih, Hampir Seperti Sebelum Pandemi Covid-19](https://scholar.google.com/](https://nasional.kompas.com/read/2022/07/04/14351401/kemenparekraf-jumlah-penonton-bioskop-sudah-pulih-hampir-seperti-sebelum) 
+Referensi dari project overview pada laporan ini dapat dilihat pada tautan berikut: [Kemenparekraf Jumlah Penonton Bioskop Sudah Pulih, Hampir Seperti Sebelum Pandemi Covid-19](https://scholar.google.com/](https://nasional.kompas.com/read/2022/07/04/14351401/kemenparekraf-jumlah-penonton-bioskop-sudah-pulih-hampir-seperti-sebelum) 
 
 ## Business Understanding
 
