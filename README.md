@@ -52,10 +52,10 @@ Informasi dari data sebagai berikut:
 - tension : Merupakan tingkat ketegangan film
 - erotisme : Merupakan tingkat erotisme film
 
-Unvariate Analysis
+### Unvariate Analysis
 
 <img width="349" alt="Screen Shot 2022-10-27 at 14 35 28" src="https://user-images.githubusercontent.com/60729013/198220145-ea5506a2-6e9c-4db4-b68d-02942fd348a6.png">
 
-Dari visualisasi diatas dapat kita simpulkan pada dataset ini sebagian besar film memiliki genre Drama dan Comedy. untuk genre lainya tidak terlalu dominan
+Dari visualisasi diatas dapat kita simpulkan bahwa pada dataset ini sebagian besar film memiliki genre Drama dan Comedy. untuk genre lainya tidak terlalu dominan
 
 
