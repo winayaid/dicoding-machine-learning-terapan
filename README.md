@@ -19,7 +19,7 @@ Referensi dari project overview pada laporan ini dapat dilihat pada tautan berik
 ### Problem Statements
 
 - Bagaimana cara membuat sistem yang dapat merekomendasikan film dari film - film yang pernah kita tonton sebelumnya?
-- Bagaimana cara mendapatkan rekomendasi film yang memiliki genre yang sama?
+- Bagaimana cara mendapatkan rekomendasi film yang memiliki genre yang mungkin sama?
 
 ### Goals
 
