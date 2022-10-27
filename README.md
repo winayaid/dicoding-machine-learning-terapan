@@ -64,5 +64,11 @@ Dari visualisasi diatas dapat kita simpulkan bahwa pada dataset ini sebagian bes
 
 Dari visualisasi diatas dapat kita simpulkan bahwa hanya fitur critic_vote dengan fitur avg_vote yang memiliki pola data.
 
+## Data Preparation
 
+Berikut adalah hal - hal yang dilakukan pada proses data preparation :
 
+- Dropna, digunakan membuang seluruh row yang memiliki nilai NaN. 
+- Drop Duplicates, digunakan untuk membuang data - dMemasukkan List ke Dictionary Setelah kita membuat list, kita perlu membuat dictionary yang digunakan untuk memnentukan pasangan key-value pada book_ISBN, book_title, book_author, dan book_year_of_publication.ata yang terduplikasi.
+- Dataframe dari film diubah menjadi sebuah list dengan menggunakan .tolist() method. Proses ini diperlukan karena list ini akan digunakan pada tahap selanjutnya menjadi dictionary baru yg akan menjadi landasan pada sistem rekomendasi.
+- Memasukkan list ke Dictionary digunakan untuk mementukan pasangan key dan value pada filmtv_id, title, genre, year.
